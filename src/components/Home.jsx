@@ -67,7 +67,7 @@ const Home = ({ ratio }) => {
             <p>
               Resume
             </p>
-            <span><a href="https://drive.google.com/file/d/1I04uAtVA0Y8mw-v5uCWS_BU8TcdNG7yk/view?usp=sharing" target="blank">Download Link</a></span>
+            <span><a href="https://drive.google.com/file/d/1I04uAtVA0Y8mw-v5uCWS_BU8TcdNG7yk/view?usp=drive_link" target="blank">Download Link</a></span>
           </article>
 
           <aside>
